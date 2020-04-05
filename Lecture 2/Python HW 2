@@ -1,0 +1,36 @@
+#Homework assignment 2
+
+Set this up :
+hello_string = "Hello There" 
+
+1. Try the following:
+
+- hello_string.lower()
+- hello_string.upper()
+
+2. Convert hello_string into a list ["Hello", "String"] (Hint: try the function split)
+
+
+Create a list variable list_names with all the names in your house.
+
+3. Whats the index of your name in list_names
+
+4. What function can you use to get total elements in list_names.
+
+5. What function can you use to sort the list in alphabetical order in list_names.
+
+6. Add the name "Aman" in list_names in the end
+
+7. Remove your own name from list_names
+
+8. Replace "Aman" with your own name in list_names
+
+9. Create a variable str_names with all names in list_names separated by a string [2 points]
+
+
+
+
+
+
+
+
