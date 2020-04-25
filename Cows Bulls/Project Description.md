@@ -1,11 +1,11 @@
-Project 
+=Project 
 Cows and Bulls Game.
 
 
-Description
+=Description
 Write Code using skeleton or totally on your own a word guessing game.
 
-Rules:
+=Rules:
 
 All words should be 4 character long with no repeated characters. 
 (optional) All words should be dictionary word.
@@ -26,7 +26,7 @@ for Guessed word FOUR, your hint would be 2 Bulls (because 'F' and 'O' are at th
 for next Guessed word KITE, your hint would 1 Cow (because 'K' exists but is not at its right place)
 
 
-Code:
+=Code:
 You have to write code using skeleton to take input from the user 10 times and give them clues.
 You also have to handle cases were person guessing guesses the word and case where they werent able to guess the word in 10 chances.
 
