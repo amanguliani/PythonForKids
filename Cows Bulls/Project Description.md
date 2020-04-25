@@ -5,7 +5,7 @@ Cows and Bulls Game.
 # Description
 Write Code using skeleton or totally on your own a word guessing game.
 
-# Rules=
+# Rules
 
 * All words should be 4 character long with no repeated characters. 
 * (optional) All words should be dictionary word.
