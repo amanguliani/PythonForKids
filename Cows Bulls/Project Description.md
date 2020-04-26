@@ -27,3 +27,11 @@ Write Code using skeleton or totally on your own a word guessing game.
 * You have to write code using skeleton to take input from the user 10 times and give them clues.
 * You also have to handle cases were person guessing guesses the word and case where they werent able to guess the word in 10 chances.
 * You can write your code in a text file or colab scratchbook and test it on https://repl.it/
+
+# Questions & Resources
+* You can use the skeleton code with the english dictionary text file thats given.
+* You can also use any of the lecture slides and refer back to the scratchbooks.
+* If you still have questions you can bring them to next 2 classes.
+
+# Due Date
+* 2 Weeks
