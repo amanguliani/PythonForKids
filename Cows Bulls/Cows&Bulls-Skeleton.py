@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-from pyenchant import enchant
+def load_words():
+    with open('words_alpha.txt') as word_file:
+        valid_words = set(word_file.read().split())
+    return valid_words
 
 def get_a_new_word():
 	pass
