@@ -1,0 +1,27 @@
+# Hw Assignment 3
+
+Use everything we have learned so far.
+
+Q1 (5 points each) 
+
+Define a list with all the names in your family.
+Define a variable which takes the name as an input.
+
+Write code to check the following:
+
+1. Check if the name you are got from input is empty ""
+2. If the name is not empty, Add the name taken from the input to the list of names in the correct spot alphabetically
+3. Now add age of all the people in the list next to them, for example, your list should look like ["Ridam", 10, "Reet", 4 ....]
+
+
+Q2 (5 points each) This will also be used for your game.
+
+Define a variable and take a word to guess from the input.
+
+1. Check if the word taken is a string
+
+2. Check if the word only has 4 characters
+
+3. If both the above statements are true store the word in a list of guessed words.
+
+

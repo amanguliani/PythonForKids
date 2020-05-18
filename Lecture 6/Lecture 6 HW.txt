@@ -1,0 +1,28 @@
+HW - for loops
+
+Define a variable names var_string with value "This string is for my homework"
+
+1. Write a for loop to print all characters in the var_string.
+2. Write a for loop to count number of 's' in var_string
+3. Write a for loop to count number of spaces in var_string
+4. Write a for loop to print only 'i' in var_string
+
+Define a new list in list_hw from the string var_string using the split function
+
+1. Print all words in list_hw
+2. Print YES if 'my' exist in list
+3. Print all words except the word 'my' and 'homework' from list_hw
+4. prinal all others words in list_hw but instead of 'homework' print 'class'
+
+Explain what this code is doing 
+
+var_word = input('Whats your guessed word')
+
+for character in var_word:
+    count = 0
+    for c in var_word:
+        if (character == c):
+            count = count + 1
+    if (count > 1) :
+        print('There is a repeated character')
+

@@ -1,0 +1,48 @@
+Python HW - Lecture 1
+
+Instructions:
+There is a new notebook for HW. Run all your code there and show it before class:
+https://colab.research.google.com/drive/1j-JZOqfYMKkG9yUV_jOCjVEeMLkFbJyv#scrollTo=Og_jpZr7Fpqs
+
+If you want to write some text, use print or use a +Text box on top.
+
+You can take help from adults or simply bring your questions next time.
+
+HW are graded. All questions are 1 point each unless written otherwise
+
+
+Homework:
+
+Q1. Briefly describe what is a programming language (1-2 lines only) ?
+
+Q2. What did we use to run python code?
+
+Q3. True or False - print command writes to computer memory?
+
+Strings:
+
+Q4. You are given a string in a variable (3 points)
+
+str = "This is Ridam's Homework  assignment "
+
+[0.25]a. Write a command to print the number of characters in the above string.
+[0.25]b. Write a command to print the character 'R'
+[1]c. Write a command to print : Ridam's
+[0.25]d. Whats the output of str[-3]
+[0.25]e. Whats the output of str[8:-5]
+[1]f. Can you write a different command from part c to print Ridam's ? 
+
+Numbers
+
+Q5: Try two operation [2 points] 
+
+5 % 6 
+
+and
+
+5 / 6
+
+Can you tell me what does / and % operators are doing ? ( try it with different numbers)
+
+
+Q6: Write the out put of 2 ** 3 ? Can you tell me what does the operator ** is doing ? [2 points]
