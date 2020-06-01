@@ -1,0 +1,52 @@
+HW - Lecture 7 - Turtle
+
+Knowledge Test
+
+1. Which function make the tutle move forward
+	a. Back()
+	b. Up()
+	c. Forward()
+	d. Loop()
+2. What does right() function do
+	a. Makes the turtle move towards right 
+	b. Points the cursor towards right angle
+	c. Points the cursor right towards the angle it takes
+	d. Moves the turtle towards left
+3. What value does the color function take 
+	a. String variable with value representing color
+	b. A string like "blue", "green", "red" etc
+	c. Either of the above
+4. Which direction is the turtle facing when created
+    a. North
+    b. South
+    c. East
+    d. West
+5. What shape would this code draw
+
+import turtle
+alex = turtle.Turtle()
+alex.forward(100)
+alex.backward(50)
+alex.right(90)
+alex.forward(100)
+
+1. L shape
+2. T shape
+3. V shape
+4. 7 shape
+
+
+Coding Test
+
+1. Write turtle code to draw a 5 pointed star
+
+2. Write turtle code to draw a octagon with all sides having a different color
+
+3. Write turtle code to draw tha alphabets 
+	a. A
+	b. F
+	c. H
+
+
+
+
