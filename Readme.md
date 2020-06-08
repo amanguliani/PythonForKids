@@ -25,8 +25,12 @@ Project: Hangman
 Python for Kids, A Playful Introduction to Programming by Jason R. Briggs
 
 ## Tools used.
+
 For online learning we used notebooks on https://colab.research.google.com
+
 For building projects we used https://repl.it
+
+For Learning Turtle we used https://trinket.io
 
 ## Example Projects
 https://repl.it/@AmandeepGuliani/RidamCowsAndBulls
