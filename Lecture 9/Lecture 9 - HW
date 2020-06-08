@@ -1,0 +1,33 @@
+Lecture 9 - HW 
+
+Knowledge Test:
+
+1. What do we use to not draw a line
+a. penup
+b. pendown
+c. notwrite
+
+2. How would you go to a a point 50 steps ahead and 40 steps above from where the turtle starts ?
+a. goto(50, 40)
+b. forward(50)
+   left(90)
+   forward(40)
+c. Both are correct !
+
+3. Which quadranent does this point (-20, -20) fall into?
+a. Quadrent 1
+b. Quadrent 2
+c. Quadrent 3
+d. Quadrent 4
+
+4. How do you draw a semicircle
+a. Use circle command with two parameters, one for radius and one for where to stop
+b. Use semicircle command
+c. Use a loop and use circle penup and pendown
+
+
+Coding Test:
+
+1. Draw a Spiral
+
+2. Draw a olympic logo.
