@@ -9,6 +9,7 @@ This is course material used for teaching python to kids (10 yr old and onwards)
 5. Review and Quiz
 6. Loops
 7. Function and Algorithm
+
 Project: Cows and Bulls [Learned and applied everything plus while loop]
 
 ## Graphical UI
