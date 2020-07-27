@@ -32,7 +32,14 @@ For building projects we used https://repl.it
 
 For Learning Turtle we used https://trinket.io
 
-## Example Projects
-https://repl.it/@AmandeepGuliani/RidamCowsAndBulls
+## Projects
 
+### Cows & Bulls
+https://repl.it/@AmandeepGuliani/RidamCowsAndBulls
 https://repl.it/@AmandeepGuliani/AvinCowsAndBulls
+
+### Hangman
+https://repl.it/@AmandeepGuliani/Turtle-Hangman-Kids
+https://repl.it/@RidamBhatia/Project2Hangman
+https://repl.it/@Intelligentsura/hangmanproject
+
