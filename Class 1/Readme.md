@@ -34,16 +34,16 @@ For Learning Turtle we used https://trinket.io
 
 ## Projects
 
-### Cows & Bulls
+### [Cows & Bulls](Cows&Bulls/Project%20Description.md)
 * https://repl.it/@AmandeepGuliani/RidamCowsAndBulls
 * https://repl.it/@AmandeepGuliani/AvinCowsAndBulls
 
-### Hangman
+### [Hangman](Hangman/Project%20Description.md)
 * https://repl.it/@AmandeepGuliani/Turtle-Hangman-Kids
 * https://repl.it/@RidamBhatia/Project2Hangman
 * https://repl.it/@Intelligentsura/hangmanproject
 
-### Tic Tac Toe
+### [Tic Tac Toe](TicTacToe/Project%20Description.md)
 * https://repl.it/@RidamBhatia/ProjectTicTacToe3#main.py
 
 
